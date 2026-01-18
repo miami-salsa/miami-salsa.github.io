@@ -908,7 +908,6 @@ a {
   height: 90px;
   padding: 0.5rem 0.6rem;
   flex-wrap: nowrap;
-  background: rgba(255, 255, 255, 0.5) !important;
   left: 0;
   right: 0;
   -webkit-box-pack: justify;
@@ -950,7 +949,6 @@ a {
   transition: .3s all !important;
   min-width: auto;
   background: #ffffff;
-  background: rgba(255, 255, 255, 0.5) !important;
 }
 .cid-tJS6tZXiPa .nav-item:focus,
 .cid-tJS6tZXiPa .nav-link:focus {
@@ -1272,9 +1270,6 @@ a {
     padding: 1rem;
     border-radius: 1.5rem;
     background: #ffffff;
-    opacity: 1;
-    border-color: rgba(255, 255, 255, 0.5) !important;
-    background: rgba(255, 255, 255, 0.5) !important;
     backdrop-filter: blur(8px);
   }
   .cid-tJS6tZXiPa .navbar-nav .nav-item .nav-link::after {
@@ -1530,7 +1525,6 @@ a {
   height: 90px;
   padding: 0.5rem 0.6rem;
   flex-wrap: nowrap;
-  background: rgba(255, 255, 255, 0.5) !important;
   left: 0;
   right: 0;
   -webkit-box-pack: justify;
@@ -1572,7 +1566,6 @@ a {
   transition: .3s all !important;
   min-width: auto;
   background: #ffffff;
-  background: rgba(255, 255, 255, 0.5) !important;
 }
 .cid-v2hJl9YB7Q .nav-item:focus,
 .cid-v2hJl9YB7Q .nav-link:focus {
@@ -1894,9 +1887,6 @@ a {
     padding: 1rem;
     border-radius: 1.5rem;
     background: #ffffff;
-    opacity: 1;
-    border-color: rgba(255, 255, 255, 0.5) !important;
-    background: rgba(255, 255, 255, 0.5) !important;
     backdrop-filter: blur(8px);
   }
   .cid-v2hJl9YB7Q .navbar-nav .nav-item .nav-link::after {
@@ -2133,7 +2123,6 @@ a {
   height: 90px;
   padding: 0.5rem 0.6rem;
   flex-wrap: nowrap;
-  background: rgba(255, 255, 255, 0.5) !important;
   left: 0;
   right: 0;
   -webkit-box-pack: justify;
@@ -2175,7 +2164,6 @@ a {
   transition: .3s all !important;
   min-width: auto;
   background: #ffffff;
-  background: rgba(255, 255, 255, 0.5) !important;
 }
 .cid-v2hJiXg1BP .nav-item:focus,
 .cid-v2hJiXg1BP .nav-link:focus {
@@ -2497,9 +2485,6 @@ a {
     padding: 1rem;
     border-radius: 1.5rem;
     background: #ffffff;
-    opacity: 1;
-    border-color: rgba(255, 255, 255, 0.5) !important;
-    background: rgba(255, 255, 255, 0.5) !important;
     backdrop-filter: blur(8px);
   }
   .cid-v2hJiXg1BP .navbar-nav .nav-item .nav-link::after {
